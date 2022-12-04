@@ -1,14 +1,210 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+ 	[
+    {
+      "id": 10000000,
+ 		"companyType": "LIGHTING",
+ 		"email": "rent@adorama.com",
+ 		"address": {
+ 			"street": "570 West 17th Street",
+ 			"borough": "Manhattan",
+ 			"city": "New York",
+ 			"zip": "10011"
+ 		},
+ 		"phone": "212-627-8487",
+ 		"website": "www.adoramarentals.com/l/Lighting",
+ 		"company": {
+ 			"name": "Adorama Rental Company"
+ 		}
+ 	},
+ 	{
+ 		"id": 10000003,
+ 		"companyType": "LIGHTING",
+ 		"email": "Info@BriteShot.com",
+ 		"address": {
+ 			"street": "333 7TH AVENUE, 10TH FL",
+ 			"borough": "Manhattan",
+ 			"city": "New York",
+ 			"zip": "10001"
+ 		},
+ 		"phone": "212-219-0002",
+ 		"website": "www.briteshot.com/rentals",
+ 		"company": {
+ 			"name": "BriteShot"
+ 		}
+ 	},
+ 	{
+ 		"id": 10000004,
+ 		"companyType": "LIGHTING",
+ 		"email": "Support@bulbamerica.com",
+ 		"address": {
+ 			"street": "425 Greenpoint Avenue",
+ 			"borough": "Brooklyn",
+ 			"city": "New York",
+ 			"zip": "11222"
+ 		},
+ 		"phone": "888-505-2111",
+ 		"website": "www.bulbamerica.com/pages/stage-lighting",
+ 		"company": {
+ 			"name": "Bulb America"
+ 		}
+ 	},
+ 	{
+ 		"id": 20000000,
+ 		"companyType": "CAMERA",
+ 		"email": "info@airsealand.com",
+ 		"address": {
+ 			"street": "19-69 Steinway Street",
+ 			"borough": "Queens",
+ 			"city": "New York",
+ 			"zip": "11105"
+ 		},
+ 		"phone": "718-626-2646",
+ 		"website": "www.airsealand.com/shop",
+ 		"company": {
+ 			"name": "AirSeaLand"
+ 		}
+ 	},
+ 	{
+ 		"id": 20000001,
+ 		"companyType": "CAMERA",
+ 		"email": "info@atlantictv.com",
+ 		"address": {
+ 			"street": "150 West 28th Street, 8th Floor",
+ 			"borough": "Manhattan",
+ 			"city": "New York",
+ 			"zip": "10001"
+ 		},
+ 		"phone": "212-625-9327",
+ 		"website": "www.atlantictv.com/",
+ 		"company": {
+ 			"name": "AtlanticTV"
+ 		}
+ 	},
+ 	{
+ 		"id": 30000000,
+ 		"companyType": "AUDIO",
+ 		"email": "rentals@soundhousenyc.com",
+ 		"address": {
+ 			"street": "117 Banker Street",
+ 			"borough": "Brooklyn",
+ 			"city": "New York",
+ 			"zip": "11222"
+ 		},
+ 		"phone": "877-471-6304",
+ 		"website": "www.soundhousenyc.com/speaker-rental.html",
+ 		"company": {
+ 			"name": "Soundhouse"
+ 		}
+ 	},
+ 	{
+ 		"id": 30000001,
+ 		"companyType": "AUDIO",
+ 		"email": "sales@avworkshop.com",
+ 		"address": {
+ 			"street": "483 10th Avenue",
+ 			"borough": "Manhattan",
+ 			"city": "New York",
+ 			"zip": "10018"
+ 		},
+ 		"phone": "212-643-0040",
+ 		"website": "www.avworkshop.com/audio-visual-rental-new-york-manhattan-ny",
+ 		"company": {
+ 			"name": "Audio Visual Workshop NYC"
+ 		}
+ 	},
+ 	{
+ 		"id": 40000002,
+ 		"companyType": "PROPS",
+ 		"email": "PROPS@ACMEBROOKLYN.COM",
+ 		"address": {
+ 			"street": "350 Meserole Street, Building D",
+ 			"borough": "Brooklyn",
+ 			"city": "New York",
+ 			"zip": "11206"
+ 		},
+ 		"phone": "347-529-6158",
+ 		"website": "www.acmebrooklyn.com/",
+ 		"company": {
+ 			"name": "Acme Brooklyn Props & Set"
+ 		}
+ 	},
+ 	{
+ 		"id": 40000000,
+ 		"companyType": "PROPS",
+ 		"email": "info@prophaus.com",
+ 		"address": {
+ 			"street": "1660 Stephen Street",
+ 			"borough": "Queens",
+ 			"city": "New York",
+ 			"zip": "11385"
+ 		},
+ 		"phone": "646-638-9330",
+ 		"website": "www.prophaus.com/",
+ 		"company": {
+ 			"name": "Prop Haus"
+ 		}
+ 	},
+ 	{
+ 		"id": 50000000,
+ 		"companyType": "COSTUME",
+ 		"email": "INFO@BTLPS.COM",
+ 		"address": {
+ 			"street": "73 Provost Street",
+ 			"borough": "Brooklyn",
+ 			"city": "New York",
+ 			"zip": "11222"
+ 		},
+ 		"phone": "718-389-7900",
+ 		"website": "www.btlps.com/rental/",
+ 		"company": {
+ 			"name": "Below The Line Production Supply"
+ 		}
+ 	},
+ 	{
+ 		"id": 60000000,
+ 		"companyType": "FABRICATION",
+ 		"email": "contact@hudsonscenic.com",
+ 		"address": {
+ 			"street": "260 W 44th Street, 3rd FL",
+ 			"borough": "Manhattan",
+ 			"city": "New York",
+ 			"zip": "10036"
+ 		},
+ 		"phone": "212-302-8680",
+ 		"website": "www.hudsonscenic.com/hudson-on-broadway",
+ 		"company": {
+ 			"name": "Hudson Scenic Studio"
+ 		}
+ 	},
+ 	{
+ 		"id": 70000001,
+ 		"companyType": "VIDEO",
+ 		"email": "carl.cook@prg.com",
+ 		"address": {
+ 			"street": "147 41st Street, Building 20, 3rd FL Suite A",
+ 			"borough": "Brooklyn",
+ 			"city": "New York",
+ 			"zip": "11232"
+ 		},
+ 		"phone": "212-206-3730",
+ 		"website": "www.prg.com/en/services/video",
+ 		"company": {
+ 			"name": "PRG Gear"
+ 		}
+ 	},
+ 	{
+ 		"id": 70000002,
+ 		"companyType": "VIDEO",
+ 		"email": "info@avnyc.com",
+ 		"address": {
+ 			"street": "1350 Broadway Suite 401",
+ 			"borough": "Manhattan",
+ 			"city": "New York",
+ 			"zip": "10013"
+ 		},
+ 		"phone": "212-464-8754",
+ 		"website": "www.avnyc.com/",
+ 		"company": {
+ 			"name": "AV NYC"
+ 		}
+ 	}
+ ]
